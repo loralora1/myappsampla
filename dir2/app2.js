@@ -1,0 +1,1 @@
+comsola.log(123);
